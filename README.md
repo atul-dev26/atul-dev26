@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-<!--
-**atul-dev26/atul-dev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<h1 align="center">Hi 👋, I'm Atul Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Atul Tiwari</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-dev26&label=Profile%20views&color=0e75b6&style=flat" alt="atul-dev26" /> </p>
