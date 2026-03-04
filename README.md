@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **spring-boot and automation**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **BACKEND DESIGN**
 
 - 📫 How to reach me **atul.tiwari.ug24@nsut.ac.in**
 
